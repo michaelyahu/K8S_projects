@@ -1,0 +1,34 @@
+{
+    "authors": [
+      {
+        "name": "Dan",
+        "description": "Author of many great books.",
+        "books": ["Inahal_A_book", "Slim_shady"]
+      },
+      {
+        "name": "Haim",
+        "description": "Famous author from Wonderland.",
+        "books": ["Bazuka_joe", "papercut"]
+      },
+      {
+        "name": "Pinhas",
+        "description": "The bigest authur of universe.",
+        "books": ["My_name_is", "Bigle"]
+      },
+      {
+        "name": "Juda",
+        "description": "Author the create masterpice.",
+        "books": ["shikaka ", "the_dark"]
+      },
+      {
+        "name": "Shmulik",
+        "description": "Author that create many books.",
+        "books": ["Coco", "Levontin"]
+      },
+      {
+        "name": "Marshel",
+        "description": "Create boring books.",
+        "books": ["people", "paper"]
+      }
+    ]
+  }
